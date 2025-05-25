@@ -49,3 +49,6 @@ To get the application running locally:
     -   Log in as an admin (`admin@example.com` / `adminpass`) to view logs and use AI analysis tools.
 
 This project uses client-side storage (`localStorage`) for user data and attendance logs for simplicity. For a production environment, a proper backend database and secure authentication mechanism would be required.
+
+To Try this quickly you can go to https://ai-attend.vercel.app/ 
+it is deployed by me there.
